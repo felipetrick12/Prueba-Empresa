@@ -1,0 +1,11 @@
+
+export const lista = [
+    {
+      id: "1",
+      name: "Vivair",
+    },
+    {
+      id: "2",
+      name: "Avianca",
+    },
+  ];
